@@ -1,0 +1,72 @@
+[
+    {
+        "firstname": "safayet",
+        "lastname": "anan",
+        "age": "22",
+        "designation": "Junior Programmer",
+        "language": "PHP,java,",
+        "email": "anansarkar4@gmail.com",
+        "password": "1234567",
+        "File": "..\/uploads\/2FA97341-209B-4104-A34F-FCF0CAF1CE9A.png"
+    },
+    {
+        "firstname": "",
+        "lastname": "",
+        "age": "",
+        "designation": null,
+        "language": "C++,java,",
+        "email": "",
+        "password": "",
+        "File": "..\/uploads\/"
+    },
+    {
+        "firstname": "Safayet",
+        "lastname": "Hossain",
+        "age": "",
+        "designation": "Junior Programmer",
+        "language": "PHP,java,",
+        "email": "anansarkar4@gmail.com",
+        "password": "1234567",
+        "File": "..\/uploads\/2FA97341-209B-4104-A34F-FCF0CAF1CE9A.png"
+    },
+    {
+        "firstname": "",
+        "lastname": "",
+        "age": "",
+        "designation": null,
+        "language": "PHP,java,",
+        "email": "",
+        "password": "",
+        "File": "..\/uploads\/"
+    },
+    {
+        "firstname": "",
+        "lastname": "",
+        "age": "",
+        "designation": null,
+        "language": "",
+        "email": "",
+        "password": "",
+        "File": "..\/uploads\/"
+    },
+    {
+        "firstname": "Safayet",
+        "lastname": "Hossain",
+        "age": "22",
+        "designation": "Junior Programmer",
+        "language": "PHP,java,",
+        "email": "anansarkar4@gmail.com",
+        "password": "123456",
+        "File": "..\/uploads\/2FA97341-209B-4104-A34F-FCF0CAF1CE9A.png"
+    },
+    {
+        "firstname": "Safayetooo",
+        "lastname": "Hossain",
+        "age": "",
+        "designation": null,
+        "language": "C++,PHP,",
+        "email": "anansarkar4@gmail.com",
+        "password": "",
+        "File": "..\/uploads\/18-37249-1.docx"
+    }
+]
