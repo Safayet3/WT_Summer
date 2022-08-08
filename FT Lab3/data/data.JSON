@@ -1,0 +1,52 @@
+[
+    {
+        "firstname": "",
+        "lastname": "",
+        "age": "",
+        "designation": "null",
+        "language": "",
+        "email": "",
+        "password": "",
+        "File": "..\/uploads\/"
+    },
+    {
+        "firstname": "",
+        "lastname": "",
+        "age": "",
+        "designation": "null",
+        "language": "",
+        "email": "",
+        "password": "12345",
+        "File": "..\/uploads\/"
+    },
+    {
+        "firstname": "kth",
+        "lastname": "sg",
+        "age": "21345678",
+        "designation": "Junior Programmer",
+        "language": "PHP,java,",
+        "email": "11232@sfu.com",
+        "password": "1234567u8",
+        "File": "..\/uploads\/Untitled.ipynb"
+    },
+    {
+        "firstname": "ktm",
+        "lastname": "duke",
+        "age": "23",
+        "designation": "null",
+        "language": "",
+        "email": "",
+        "password": "",
+        "File": "..\/uploads\/"
+    },
+    {
+        "firstname": "as",
+        "lastname": "sd",
+        "age": "12",
+        "designation": "Junior Programmer",
+        "language": "java,",
+        "email": "12@we.com",
+        "password": "12345",
+        "File": "..\/uploads\/"
+    }
+]
